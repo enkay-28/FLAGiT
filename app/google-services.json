@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245663375219",
+    "firebase_url": "https://flagit-c1182.firebaseio.com",
+    "project_id": "flagit-c1182",
+    "storage_bucket": "flagit-c1182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245663375219:android:c0dfe04a3a23c195cb2f06",
+        "android_client_info": {
+          "package_name": "com.test.flagit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245663375219-ua0g50sfio5djbvgjje1r5ol4bi6dfbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.flagit",
+            "certificate_hash": "f3b58d769e180cac5b292d70427f03d2dcf67ca8"
+          }
+        },
+        {
+          "client_id": "245663375219-d50ren2jm6n70admft0rpdeh0bqjquk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLHgu0VoTjrpIh2BTiwsUzxl7lflJXbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245663375219-d50ren2jm6n70admft0rpdeh0bqjquk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
